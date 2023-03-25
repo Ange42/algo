@@ -160,8 +160,10 @@ positionDep(position_x,position_y)
 
 recupClef(position_x,position_y,tab)
 
-fin tant que
 
+
+fin tant que
+//
 alog tri
  
 variable
